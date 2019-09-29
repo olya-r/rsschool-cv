@@ -1,0 +1,22 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font: 17px/1.6 "Helvetica", "Arial", sans-serif;
+}
+
+article {
+  display: block;
+  max-width: 1024px;
+}
+
+code {
+  padding: 2px 4px;
+
+  font-size: 95%;
+  color: #d44950;
+
+  background-color: #f7f7f9;
+  border-radius: 0.2rem;
+}
